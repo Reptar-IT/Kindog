@@ -1,4 +1,6 @@
 # Kindog
-Start Up page
+Start up page mock up website.
 
-Built with HTML5 & CSS3
+# What I learned
+- HTML5 and boilerplate code
+- Css positioning
