@@ -1,7 +1,8 @@
 # Kindog
-Start up page mock up website.
+
+A beautiful start up page with a dog date app theme.
 
 # What I learned
-- HTML5 and boilerplate code
-- CSS3 positioning
-- Bootstrap 4
+
+- CSS3 transform 
+- CSS3 position 
